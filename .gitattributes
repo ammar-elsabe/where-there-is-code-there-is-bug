@@ -1,1 +1,15 @@
+model_state2.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_04.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_06.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_07.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_08.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_09.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_10.pt filter=lfs diff=lfs merge=lfs -text
+model_state.pt filter=lfs diff=lfs merge=lfs -text
+model_state3.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_01.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_02.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_03.pt filter=lfs diff=lfs merge=lfs -text
+model_state_final_05.pt filter=lfs diff=lfs merge=lfs -text
+data/ filter=lfs diff=lfs merge=lfs -text
 *.pt filter=lfs diff=lfs merge=lfs -text
